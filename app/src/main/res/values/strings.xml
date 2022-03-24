@@ -16,21 +16,4 @@
     <string name="cancel">Cancelar</string>
     <string name="notification_message">La aplicación accede a tu ubicación cada 5 min</string>
     <string name="storage_message">Da click en el botón flotante para añadir una o más imagenes y subirlas a Firebase</string>
-
-
-    <string name="txt_no_title">Sin nombre :(</string>
-
-    <string name="txt_no_overview">Sin nombre :(</string>
-    <string name="title_movie_detail">Información</string>
-    <string name="action_watch_movie">Ver película</string>
-    <string name="txt_error">Ha ocurrido un error de conexión</string>
-    <string name="txt_notification_description">Se guardará tu ubicación cada 5 minutos</string>
-    <string name="txt_attention">Atención</string>
-    <string name="txt_request_to_use">Para poder usar la app debes dar permiso de ubicación</string>
-    <string name="txt_understand">Entendio</string>
-    <string name="txt_cancel">Cancelar</string>
-    <string name="txt_error_uploading">Error al subir la imagen</string>
-    <string name="txt_empty_locations">No hay locaciones por el momento</string>
-    <string name="txt_no_movies">No se cargaron las películas</string>
-    <string name="txt_files_empty">No hay imágenes para mostrar</string>
 </resources>

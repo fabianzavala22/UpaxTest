@@ -42,7 +42,6 @@ class MoviesFragment : Fragment() {
     ): View {
         _binding = FragmentMoviesBinding.inflate(inflater, container, false)
         val root: View = binding.root
-        val dao = MoviesDataBase.getInstance(requireContext()).moviesDAO
         initRecycler()
         movieAdapter = MoviesAdapter()
 
