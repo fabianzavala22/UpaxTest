@@ -22,9 +22,12 @@ Nombre: Luis Fabián Zavala Vázquez
 * Se consume firebase para ver en el mapa las ubicaciones guardadas mediante marcadores.
 * Se utiliza inyección de dependencias a través de dagger.
 * Se utiliza ROOM mediante la clase RemoteMediator para la paginación (Funciones y clases creadas, implementación pendiente)
-*
+
+APK: https://ugtomx-my.sharepoint.com/:u:/g/personal/lf_zavalavazquez_ugto_mx/EcXtOj0WCyhDt_Y01Ar--JgB0BjpfxYMlttRqanabXG9FQ?e=vuVWvG
+
+
 
 ![image](https://user-images.githubusercontent.com/44623170/159818119-646d7312-64ee-4cd8-9340-2d18128508db.png)
-![image](https://user-images.githubusercontent.com/44623170/159818187-1a316a49-96af-4174-9f97-004b7624aadb.png)
+
 
 ------
