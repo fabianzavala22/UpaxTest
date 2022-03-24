@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394661613383",
+    "project_id": "upaxtest-3f2b2",
+    "storage_bucket": "upaxtest-3f2b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394661613383:android:536f4f9cfdb50e6c550662",
+        "android_client_info": {
+          "package_name": "com.example.upaxtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394661613383-qf7mjtlnubpo4qtbcklm9mpca20njcac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIVE0RP0kJjwFX7Za6h3R_ixbzZGRw_u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394661613383-qf7mjtlnubpo4qtbcklm9mpca20njcac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
